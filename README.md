@@ -1,6 +1,8 @@
 # dsge
 Dynamic stochastic general equilibrium modeling (DSGE) Use dsge With STATA 18
 
+https://www.youtube.com/watch?v=ZP8LGMOyuRE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
